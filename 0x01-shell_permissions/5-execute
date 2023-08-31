@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+764 hello
+chown betty chmod 100 hello
